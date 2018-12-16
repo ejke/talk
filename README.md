@@ -1,2 +1,2 @@
-# talk
-Slides for the talks.
+# Talk
+Slides for the talk.
