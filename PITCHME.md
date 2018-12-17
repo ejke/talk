@@ -72,6 +72,17 @@ Wordpress
 liugehksjd
 @snapend
 
+
+@snap[fragment ubuntu-heavy]
+liugehksjd
+@snapend
+
+
+@snap[fragment ubuntu-heavy]
+liugehksjd
+@snapend
+
+
 and now: 
 python, java, js, aws
 do it all
