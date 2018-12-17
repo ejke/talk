@@ -19,7 +19,8 @@ Note:
 - three
 
 ---
-who am i
+
+```whoami```
 
 estonia
 dk
