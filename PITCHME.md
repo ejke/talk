@@ -109,7 +109,7 @@ Note:
 
 ---?color=#87B6A7
 
-@snap[north-west ubuntu-heavy]
+@snap[south-west ubuntu-heavy]
 # do what you can and be proud
 @snapend
 
@@ -118,7 +118,7 @@ Note:
 
 ---?color=#87B6A7
 
-@snap[north-west ubuntu-heavy]
+@snap[south-west ubuntu-heavy]
 # don't think you should know things you haven't learned
 @snapend
 
@@ -128,21 +128,21 @@ Note:
 
 ---?color=#87B6A7
 
-@snap[north-west ubuntu-heavy]
+@snap[south-west ubuntu-heavy]
 # take action, learn more
 @snapend
 
 
 ---?color=#87B6A7
 
-@snap[north-west ubuntu-heavy]
+@snap[south-west ubuntu-heavy]
 # do not laugh at other's mistakes
 @snapend
 
 
 ---?color=#87B6A7
 
-@snap[north-west ubuntu-heavy]
+@snap[south-west ubuntu-heavy]
 # blocker. 3,2,1, ask help!
 @snapend
 
@@ -153,11 +153,11 @@ Note:
 
 ---?color=#87B6A7
 
-@snap[north-west ubuntu-heavy]
+@snap[south-west ubuntu-heavy]
 # leave binary to code
 @snapend
 
-@snap[fragment south-east ubuntu-heavy]
+@snap[fragment north-east ubuntu-heavy]
 ## perfection
 @snapend
 
@@ -172,7 +172,7 @@ Note:
 
 ---?color=#87B6A7
 
-@snap[north-west ubuntu-heavy]
+@snap[south-west ubuntu-heavy]
 # stop comparing yourself to those who have levelled up
 @snapend
 
