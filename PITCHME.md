@@ -96,11 +96,15 @@ Postgres
 
 ![business card](assets/img/birdi_card.png)
 
----
+---?color=#87B6A7
 
 @snap[north-west ubuntu-heavy]
 # What worked for me
 @snapend
+
+---?color=#87B6A7
+1. 
+
 
 ---
 What is it? How to recognise you have one?
