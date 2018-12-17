@@ -6,17 +6,8 @@
 
 
 @snap[south-east fragment]
-process from February til now in <img src="assets/img/birdi_logo_2.png" style="max-width: 20%; margin-bottom: -2rem;">
+my process from February til now in <img src="assets/img/birdi_logo_2.png" style="max-width: 20%; margin-bottom: -1rem;">
 @snapend
-
----
-
-<img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
-
-Note:
-- test
-- two
-- three
 
 ---?color=#041338
 
@@ -94,6 +85,15 @@ Postgres
 
 ---
 
+---
+
+<img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
+
+Note:
+- test
+- two
+- three
+
 ![business card](assets/img/birdi_card.png)
 
 ---?color=#87B6A7
@@ -103,23 +103,104 @@ Postgres
 @snapend
 
 ---?color=#87B6A7
-1. 
+1.
+
+
+
+---?color=#87B6A7
+
+@snap[south-east ubuntu-heavy]
+# do what you can and be proud
+@snapend
+
+---
+![slider example](assets/img/slider.png)
+
+---?color=#87B6A7
+
+@snap[south-west ubuntu-heavy]
+# don't think you should know things you haven't learned
+@snapend
+
+
+Note:
+- cry talk
+
+---?color=#87B6A7
+
+@snap[north-west ubuntu-heavy]
+# take action, learn more
+@snapend
+
+
+---?color=#87B6A7
+
+@snap[north-east ubuntu-heavy]
+# do not laugh at other's mistakes
+@snapend
+
+
+---?color=#87B6A7
+
+@snap[south-east ubuntu-heavy]
+# blocker. 3,2,1, ask help!
+@snapend
+
+Note:
+- 3 second rule
+- mind stops itself
+- postpone if obviously busy
+
+---?color=#87B6A7
+
+@snap[south-west ubuntu-heavy]
+# leave binary to code
+@snapend
+
+@snap[fragment north-east ubuntu-heavy]
+## perfection
+@snapend
+
+Note:
+- lower your levels
+
+---?color=#87B6A7
+
+@snap[midpoint ubuntu-heavy]
+# mindset: fail fast
+@snapend
+
+---?color=#87B6A7
+
+@snap[north-west ubuntu-heavy]
+# stop comparing yourself to those who have levelled up
+@snapend
+
+---?color=#87B6A7
+
+@snap[north-east ubuntu-heavy]
+# stop comparing yourself to those who have levelled up
+@snapend
+
+Note:
+- good in moderation
+- goal
+
+
+---?color=#87B6A7
+
+@snap[south-east ubuntu-heavy]
+# communicate.
+@snapend
 
 
 ---
 What is it? How to recognise you have one?
 
 How to do it
-1. do what you can and take pride in that. take in the compliments sincerely (however small you think the thing you did is) (EX: slider)
 2. talk when you have opinion
-3. learn more - about things you ought to know and about things you don't
-4. learn more
 5. make a way to ask questions in the way that you show that you know something but not everything
-6. try not to laugh when others make mistakes. i understand, it humanises them in your eyes, but puts you in worse light in their eyes.
-7. communicate when blocked. 3 second rule like in dating or networking - when you see somebody you want to talk to, you need to get up and walking within 3s, otherwise it is too late. can postpone sometimes when you see the person is obviously very bizy.
-8. stop comparing yourself with people above your level. (easier said than done) (EX: brendan. orchestra. )
-it has a good side - setting your goals high, to go and get them, but
-9. lower your levels - try to not get it perfect. aim there is long run, but able yourself to fail, convince that you should fail on first try.
+
 10. communicate those issues  - finding out your peers have also self-doupt and they are not superhuman know-it-all robots helps a lot. EX: honest retros
 11. Don't lie in your skills - it will come out. even halflie is no good (knowing the thing half-way)
 12. tim ferriss self-evaluation: hungry? tired? yep, then skip the thought for later. not proper to deal with them.
