@@ -21,31 +21,31 @@ Note:
 - two 
 - three
 
----
+---?color=#0b2a5b
 
 ## ```whoami```
 
-@snap[fragment ubuntu left]
+@snap[fragment ubuntu left color-light]
 Eike
 @snapend
 
 
-@snap[fragment ubuntu left]
+@snap[fragment ubuntu left color-light]
 25
 @snapend
 
 
-@snap[fragment ubuntu left]
+@snap[fragment ubuntu left color-light]
 Estonia
 @snapend
 
 
-@snap[fragment ubuntu left]
+@snap[fragment ubuntu left color-light]
 AP in Multimedia Design and Communication in Denmark
 @snapend
 
 
-@snap[fragment ubuntu left]
+@snap[fragment ubuntu left color-light]
 Erasmus in Cyprus
 @snapend
 
