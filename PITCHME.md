@@ -5,13 +5,13 @@
 @snapend
 
 
-@snap[south-west fragment]
+@snap[south-east fragment]
 process from February til now
 @snapend
 
 ---
 
-<img href="assets/img/imposter_definition_2.png" style="max-width: 80%;">
+<img src="assets/img/imposter_definition_2.png" style="max-width: 80%;">
 
 Note:
 - test
