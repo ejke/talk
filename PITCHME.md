@@ -37,9 +37,14 @@ Estonia
 @snap[fragment ubuntu left color-light]
 AP in Multimedia Design and Communication in Denmark
 @snapend
+@snap[fragment ubuntu left color-light]
+-> front end
+@snapend
+
+---
 <br>
 @snap[fragment ubuntu left color-light]
-Erasmus in Cyprus
+web agency
 @snapend
 
 ---
@@ -58,6 +63,8 @@ and music. dance. theatre.
 -  AP in Multimedia Design and Communication ![definition](assets/img/business-academy-aarhus-logo.png)
 @snapend
 
+
+---
 @snap[fragment]
 -  agency 
 @snapend
