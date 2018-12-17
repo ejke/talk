@@ -15,7 +15,7 @@ process from February til now in <img src="assets/img/birdi_logo_2.png" style="m
 
 Note:
 - test
-- two 
+- two
 - three
 
 ---?color=#041338
@@ -42,34 +42,21 @@ AP in Multimedia Design and Communication in Denmark
 @snapend
 
 ---
+
+@snap[ubuntu-heavy]
+# 2018
+@snapend
 <br>
-@snap[fragment ubuntu left color-light]
-web agency
+@snap[fragment ubuntu-heavy]
+# Job in a start-up
 @snapend
+
+Note:
+- where I was
 
 ---
 
-estonia
-dk
-cyprus
-just AP
-fail internship
-agency job
-always front end
-more design than code...
-and music. dance. theatre.
 
-@snap[fragment]
--  AP in Multimedia Design and Communication ![definition](assets/img/business-academy-aarhus-logo.png)
-@snapend
-
-
----
-@snap[fragment]
--  agency 
-@snapend
-
----
 
 and now: 
 python, java, js, aws
