@@ -9,6 +9,8 @@
 process from February til now in ![logo](assets/img/birdi_logo.png)
 @snapend
 
+---
+![logo](assets/img/birdi_logo.png)
 
 ---
 
