@@ -97,20 +97,25 @@ Note:
 ![business card](assets/img/birdi_card.png)
 
 ---?color=#87B6A7
-
-@snap[north-west ubuntu-heavy]
-# What worked for me
-@snapend
-
----?color=#87B6A7
-1.
-
+What is it? How to recognise you have one?
+- fear of being discovered
+-
+-
 
 
 ---?color=#87B6A7
 
 @snap[south-west ubuntu-heavy]
 # do what you can and be proud
+@snapend
+
+Note:
+- no excuses for success
+
+---?color=#87B6A7
+
+@snap[south-west ubuntu-heavy]
+# keep success journal
 @snapend
 
 ---?color=#87B6A7
@@ -142,8 +147,16 @@ Note:
 
 ---?color=#87B6A7
 
-@snap[south-west ubuntu-heavy]
-# blocker. 3,2,1, ask help!
+@snap[north-west ubuntu-heavy]
+# blocker
+@snapend
+
+@snap[midpoint ubuntu-heavy]
+# 3,2,1,
+@snapend
+
+@snap[south ubuntu-heavy]
+# ask help!
 @snapend
 
 Note:
@@ -183,75 +196,47 @@ Note:
 
 ---?color=#87B6A7
 
-@snap[north-west ubuntu-heavy]
+@snap[south-west ubuntu-heavy]
 # communicate.
 @snapend
+
+Note:
+- honest retros
 
 ---?color=#87B6A7
 
-@snap[north-west ubuntu-heavy]
-# communicate.
+@snap[south-west ubuntu-heavy]
+# stop the ego from getting ahead
 @snapend
 
-
----
-What is it? How to recognise you have one?
-
-How to do it
-2. talk when you have opinion
-5. make a way to ask questions in the way that you show that you know something but not everything
-
-10. communicate those issues  - finding out your peers have also self-doupt and they are not superhuman know-it-all robots helps a lot. EX: honest retros
-11. Don't lie in your skills - it will come out. even halflie is no good (knowing the thing half-way)
-12. tim ferriss self-evaluation: hungry? tired? yep, then skip the thought for later. not proper to deal with them.
-13. take action - do, learn, talk, run. it helps timiding the feeling.
-14. stop giving excuses for successes. own it and fake it til you make it where you want to be.
-15. positive self talk. acknowledge the inner critic telling you off. shut it.
-16. don;t let ego come on the way of asking questions.
-17. take note of archievements
-
-ex: couldn't speak to coworkers cause eyes were watering of thoughts that I'm not good enough and I don't know how to do it.
-
-https://startupbros.com/21-ways-overcome-impostor-syndrome/
-
+Note:
 - fear of being discovered
-- great team helps a lot
-- how to do it, examples of how I did it
-- communication, asking
-- no lies about your skills, even if you are not sure if it is a lie or not
-- lrean, learn, learn
--
+
+
+---?color=#87B6A7
+
+@snap[south-west ubuntu-heavy]
+# send your inner critic to vacation
+@snapend
+
+Note:
+- get to know it
+- friends,
+- make it work for you
+
+---?color=#87B6A7
+
+@snap[south-west ubuntu-heavy]
+# hungry? tired? then stop.
+@snapend
 
 ---
 
-learning process. how to becom from front end to fullstack
-- learn, take on tasks that wont be able to complete
-- mindset in cc
-- helpful coworkers
-how team is working so well that we don't need cto
-- standups
-- weekly sprints, planning on fridays
--  retros
--
-
-
-
-
-
-
----
-This is [placeholder](www.neti.ee) image
-![rubber duck](http://static1.squarespace.com/static/59698a7d29687fd47a2a7c52/599a429f6f4ca3396036a91c/5a481293651f3e3ce82796bd/1516496654222/?format=1500w)
-
----
-## Customise
-
-@css[classname](use css custom styles)
-
+1. communicate
+2. take action
+3. you are not alone
 
 
 ---
 
-points to take from here:
-you are not alone
-shut up and action
+```thanks!```
