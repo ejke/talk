@@ -57,3 +57,8 @@
 .w-80 {
   width: 80%;
 }
+
+.left {
+  float: left;
+  text-align: left;
+}

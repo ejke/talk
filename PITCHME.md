@@ -18,12 +18,16 @@ Note:
 - two 
 - three
 
----?text-align=left
+---
 
 ## ```whoami```
 
-@snap[fragment ubuntu]
+@snap[fragment ubuntu left]
 Eike
+@snapend
+
+@snap[fragment ubuntu]
+25
 @snapend
 
 @snap[fragment ubuntu]
