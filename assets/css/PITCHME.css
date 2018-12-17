@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+
+h1 {
+  font-family: 'Staatliches', cursive;
+}
+
 .reveal section img {
   border: 0;
   box-shadow: none;
 }
+
