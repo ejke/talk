@@ -56,41 +56,51 @@ Note:
 
 ---
 
-@snap[ubuntu]
+@snap[ubuntu midpoint]
 CSS
 @snapend
 
-@snap[ubuntu]
+@snap[ubuntu north-east]
 HTML
 @snapend
 
-@snap[ubuntu]
+@snap[ubuntu west]
 Wordpress
 @snapend
 
-@snap[ubuntu]
-liugehksjd
+@snap[fragment ubuntu-heavy east]
+Javascipt
 @snapend
 
-
-@snap[fragment ubuntu-heavy]
-liugehksjd
+@snap[fragment ubuntu-heavy south]
+Python
 @snapend
 
-
-@snap[fragment ubuntu-heavy]
-liugehksjd
+@snap[fragment ubuntu-heavy north-west]
+Java
 @snapend
 
+@snap[fragment ubuntu-heavy south-east]
+AWS
+@snapend
 
-and now: 
-python, java, js, aws
-do it all
-business card
+@snap[fragment ubuntu-heavy north]
+Elasticsearch
+@snapend
+
+@snap[fragment ubuntu-heavy south-west]
+Postgres
+@snapend
 
 ---
- What worked for me:
 
+![business card](assets/img/birdi_card.png)
+
+---
+
+@snap[north-west ubuntu-heavy]
+# What worked for me
+@snapend
 
 ---
 What is it? How to recognise you have one?
