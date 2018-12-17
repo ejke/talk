@@ -24,6 +24,26 @@ Eike
 @snap[fragment ubuntu left color-light]
 Estonia
 @snapend
+
+---?color=#041338
+
+![me with bagpipe and police](assets/img/bagpipe.jpg)
+
+---?color=#041338
+
+## ```whoami```
+
+@snap[ubuntu left color-light]
+Eike
+@snapend
+<br>
+@snap[ubuntu left color-light]
+25
+@snapend
+<br>
+@snap[ubuntu left color-light]
+Estonia
+@snapend
 <br>
 @snap[fragment ubuntu left color-light]
 AP in Multimedia Design and Communication in Denmark
@@ -33,6 +53,7 @@ AP in Multimedia Design and Communication in Denmark
 @snapend
 
 ---
+
 
 @snap[ubuntu-heavy]
 # 2018
