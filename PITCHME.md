@@ -26,19 +26,19 @@ Note:
 Eike
 @snapend
 
-@snap[fragment ubuntu]
+@snap[fragment ubuntu left]
 25
 @snapend
 
-@snap[fragment ubuntu]
+@snap[fragment ubuntu left]
 Estonia
 @snapend
 
-@snap[fragment ubuntu]
+@snap[fragment ubuntu left]
 AP in Multimedia Design and Communication in Denmark
 @snapend
 
-@snap[fragment ubuntu]
+@snap[fragment ubuntu left]
 Erasmus in Cyprus
 @snapend
 
