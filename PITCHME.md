@@ -6,7 +6,7 @@
 
 
 @snap[south-east fragment]
-process from February til now in <img src="assets/img/birdi_logo.png" style="max-width: 60%;">
+process from February til now in <img src="assets/img/birdi_logo_2.png" style="max-width: 20%; margin-bottom: -2rem;">
 @snapend
 
 ---
