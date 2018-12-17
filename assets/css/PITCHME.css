@@ -1,8 +1,54 @@
-@import url('https://fonts.googleapis.com/css?family=Staatliches');
+/* Fonts */
 
-h1 {
-  font-family: 'Staatliches', cursive;
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/ubuntu-normal.woff2') format('woff2'),
+       url('/assets/fonts/ubuntu-normal.woff') format('woff');
 }
+
+.ubuntu,
+.ubuntu * {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Ubuntu", sans-serif !important;
+}
+
+
+@font-face {
+  font-family: 'Ubuntu Medium';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/assets/fonts/ubuntu-medium.woff2') format('woff2'),
+       url('/assets/fonts/ubuntu-medium.woff') format('woff');
+}
+
+.ubuntu-medium,
+.ubuntu-medium * {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Ubuntu Medium", sans-serif !important;
+}
+
+@font-face {
+  font-family: 'Ubuntu Heavy';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/assets/fonts/ubuntu-heavy.woff2') format('woff2'),
+       url('/assets/fonts/ubuntu-heavy.woff') format('woff');
+}
+
+.ubuntu-heavy,
+.ubuntu-heavy * {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Ubuntu Heavy", sans-serif !important;
+}
+
+
+/* Styles */
+
 
 .reveal section img {
   border: 0;
