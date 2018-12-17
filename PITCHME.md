@@ -56,7 +56,21 @@ Note:
 
 ---
 
+@snap[ubuntu]
+CSS
+@snapend
 
+@snap[ubuntu]
+HTML
+@snapend
+
+@snap[ubuntu]
+Wordpress
+@snapend
+
+@snap[ubuntu]
+liugehksjd
+@snapend
 
 and now: 
 python, java, js, aws
