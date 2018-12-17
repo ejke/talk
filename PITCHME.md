@@ -1,10 +1,28 @@
 # Overcoming imposter syndrome
+from feb til now.
 
----
+---?color=#e49436
 
 ![definition](assets/img/imposter_definition.png)
 
+
+Note:
+- test
+- two 
+- three
+
 ---
+who am i
+
+estonia
+dk
+cyprus
+just AP
+fail internship
+agency job
+always front end
+more design than code...
+and music. dance. theatre.
 
 @snap[fragment]
 -  AP in Multimedia Design and Communication ![definition](assets/img/business-academy-aarhus-logo.png)
@@ -14,8 +32,15 @@
 -  agency 
 @snapend
 
+---
+
+and now: 
+python, java, js, aws
+do it all
+business card
 
 ---
+ What worked for me:
 
 
 ---
@@ -78,3 +103,11 @@ This is [placeholder](www.neti.ee) image
 ## Customise
 
 @css[classname](use css custom styles)
+
+
+
+---
+
+points to take from here:
+you are not alone
+shut up and action
