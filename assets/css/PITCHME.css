@@ -54,4 +54,6 @@
   border: 0;
   box-shadow: none;
 }
-
+.w-80 {
+  width: 80%;
+}

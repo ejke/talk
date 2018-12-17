@@ -11,8 +11,9 @@ process from February til now
 
 ---
 
+@snap[w-80]
 ![definition](assets/img/imposter_definition_2.png)
-
+@snapend
 
 Note:
 - test
