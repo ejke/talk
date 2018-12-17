@@ -11,7 +11,7 @@ process from February til now
 
 ---
 
-![definition](assets/img/imposter_definition.png)
+![definition](assets/img/imposter_definition_2.png)
 
 
 Note:
