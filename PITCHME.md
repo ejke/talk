@@ -10,9 +10,6 @@ process from February til now in <img src="assets/img/birdi_logo_2.png" style="m
 @snapend
 
 ---
-![logo](assets/img/birdi_logo.png)
-
----
 
 <img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
 

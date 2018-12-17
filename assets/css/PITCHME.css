@@ -51,8 +51,8 @@
 
 
 .reveal section img {
-  border: 0;
-  box-shadow: none;
+  border: 0 !important;
+  box-shadow: none !important;
 }
 .w-80 {
   width: 80%;
