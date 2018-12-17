@@ -1,5 +1,23 @@
-# How I overcame imporster syndrome
-how to overcome imporster syndrome
+# Overcoming imposter syndrome
+
+---
+
+![definition](assets/img/imposter_definition.png)
+
+---
+
+@snap[fragment]
+-  AP in Multimedia Design and Communication ![definition](assets/img/business-academy-aarhus-logo.png)
+@snapend
+
+@snap[fragment]
+-  agency 
+@snapend
+
+
+---
+
+
 ---
 What is it? How to recognise you have one?
 
