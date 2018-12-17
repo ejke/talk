@@ -1,4 +1,10 @@
-<h1>Overcoming imposter syndrome</h1>
+---?color=#e49436
+
+@snap[north-west ubuntu-heavy]
+# Overcoming imposter syndrome
+@snapend
+
+
 from feb til now.
 
 ---?color=#e49436
