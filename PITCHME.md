@@ -25,23 +25,19 @@ Note:
 @snap[fragment ubuntu left color-light]
 Eike
 @snapend
-
-
+<br>
 @snap[fragment ubuntu left color-light]
 25
 @snapend
-
-
+<br>
 @snap[fragment ubuntu left color-light]
 Estonia
 @snapend
-
-
+<br>
 @snap[fragment ubuntu left color-light]
 AP in Multimedia Design and Communication in Denmark
 @snapend
-
-
+<br>
 @snap[fragment ubuntu left color-light]
 Erasmus in Cyprus
 @snapend
