@@ -11,16 +11,33 @@ process from February til now
 
 ---
 
-<img src="assets/img/imposter_definition_2.png" style="max-width: 80%;">
+<img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
 
 Note:
 - test
 - two 
 - three
 
----
+---?text-align=left
 
-```whoami```
+## ```whoami```
+
+@snap[fragment ubuntu]
+Eike
+@snapend
+
+@snap[fragment ubuntu]
+Estonia
+@snapend
+
+@snap[fragment ubuntu]
+AP in Multimedia Design and Communication in Denmark
+@snapend
+
+@snap[fragment ubuntu]
+Erasmus in Cyprus
+@snapend
+
 
 estonia
 dk
