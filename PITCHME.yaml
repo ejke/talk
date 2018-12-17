@@ -5,14 +5,21 @@
 
 # Look-and-Feel
 # logo : assets/images/logo.png
-theme : beige
+# theme : beige
 theme-override : assets/css/PITCHME.css
-# highlight : ir-black
+highlight : ir-black
+controls-layout : edges
+
 
 # Behavior
 # transition : none
-# published : true
+published : true
+remote-control: true
+remote-control-prevkey: 38
+remote-control-nextkey: 40
+eager-loading : true
 
 # Plugins
 # charts : true
 # mathjax : TeX-AMS_HTML-full
+
