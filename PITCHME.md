@@ -1,13 +1,15 @@
----?color=#e49436
+---?color=#87B6A7
 
 @snap[north-west ubuntu-heavy]
 # Overcoming imposter syndrome
 @snapend
 
 
-from feb til now.
+@snap[south-west fragment]
+process from February til now
+@snapend
 
----?color=#e49436
+---
 
 ![definition](assets/img/imposter_definition.png)
 
