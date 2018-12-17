@@ -11,9 +11,11 @@ process from February til now
 
 ---
 
+<img href="assets/img/imposter_definition_2.png" style="max-width: 80%;">
+<!-- 
 @snap[w-80]
 ![definition](assets/img/imposter_definition_2.png)
-@snapend
+@snapend -->
 
 Note:
 - test
