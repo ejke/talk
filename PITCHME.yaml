@@ -5,7 +5,7 @@
 
 # Look-and-Feel
 # logo : assets/images/logo.png
-# theme : white
+theme : moon
 theme-override : assets/css/PITCHME.css
 # highlight : ir-black
 
