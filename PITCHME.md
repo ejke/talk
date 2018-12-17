@@ -109,16 +109,16 @@ Note:
 
 ---?color=#87B6A7
 
-@snap[south-east ubuntu-heavy]
+@snap[midpoint ubuntu-heavy]
 # do what you can and be proud
 @snapend
 
----
+---?color=#87B6A7
 ![slider example](assets/img/slider.png)
 
 ---?color=#87B6A7
 
-@snap[south-west ubuntu-heavy]
+@snap[midpoint ubuntu-heavy]
 # don't think you should know things you haven't learned
 @snapend
 
@@ -128,21 +128,21 @@ Note:
 
 ---?color=#87B6A7
 
-@snap[north-west ubuntu-heavy]
+@snap[midpoint ubuntu-heavy]
 # take action, learn more
 @snapend
 
 
 ---?color=#87B6A7
 
-@snap[north-east ubuntu-heavy]
+@snap[midpoint ubuntu-heavy]
 # do not laugh at other's mistakes
 @snapend
 
 
 ---?color=#87B6A7
 
-@snap[south-east ubuntu-heavy]
+@snap[midpoint ubuntu-heavy]
 # blocker. 3,2,1, ask help!
 @snapend
 
@@ -153,11 +153,11 @@ Note:
 
 ---?color=#87B6A7
 
-@snap[south-west ubuntu-heavy]
+@snap[midpoint ubuntu-heavy]
 # leave binary to code
 @snapend
 
-@snap[fragment north-east ubuntu-heavy]
+@snap[fragment south-east ubuntu-heavy]
 ## perfection
 @snapend
 
@@ -172,13 +172,13 @@ Note:
 
 ---?color=#87B6A7
 
-@snap[north-west ubuntu-heavy]
+@snap[midpoint ubuntu-heavy]
 # stop comparing yourself to those who have levelled up
 @snapend
 
 ---?color=#87B6A7
 
-@snap[north-east ubuntu-heavy]
+@snap[midpoint ubuntu-heavy]
 # stop comparing yourself to those who have levelled up
 @snapend
 
@@ -189,7 +189,7 @@ Note:
 
 ---?color=#87B6A7
 
-@snap[south-east ubuntu-heavy]
+@snap[midpoint ubuntu-heavy]
 # communicate.
 @snapend
 
