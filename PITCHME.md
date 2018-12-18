@@ -220,17 +220,17 @@ Note:
 @snapend
 
 
----?color=#efcf2f
+---?color=#e5d68b
 
-@snap[ubuntu]
+@snap[ubuntu left]
 1. communicate
 @snapend
 
-@snap[fragment ubuntu]
+@snap[fragment ubuntu left]
 2. take action
 @snapend
 
-@snap[fragment ubuntu]
+@snap[fragment ubuntu left]
 3. you are not alone
 @snapend
 
