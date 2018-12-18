@@ -88,7 +88,6 @@ should I fake it?
 <br>
 
 ---
-
 <img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
 
 ---
