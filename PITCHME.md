@@ -224,15 +224,15 @@ Note:
 
 @snap[midpoint]
 @snap[ubuntu left]
-1. communicate
+## 1. communicate
 @snapend
 <br>
 @snap[fragment ubuntu left]
-2. take action
+## 2. take action
 @snapend
 <br>
 @snap[fragment ubuntu left]
-3. you are not alone
+## 3. you are not alone
 @snapend
 @snapend
 
