@@ -87,11 +87,10 @@ should I fake it?
 @snapend
 <br>
 
----?image=assets/img/spotlight.jpg
+---
 <img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
 
----
-
+---?image=assets/img/spotlight.jpg
 @quote[I'm a fraud and everyone are about to find out!]
 
 ---
