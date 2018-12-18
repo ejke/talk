@@ -90,8 +90,11 @@ should I fake it?
 ---
 <img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
 
----?image=assets/img/spotlight.jpg
+---
+
 @quote[I'm a fraud and everyone are about to find out!]
+
+![doodle](assets/img/woman_doodle.jpg)
 
 ---
 here the skills first and then now.
