@@ -87,7 +87,7 @@ should I fake it?
 @snapend
 <br>
 
----
+---?image=assets/img/spotlight.jpg
 <img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
 
 ---
