@@ -6,7 +6,7 @@
 
 
 @snap[south-east fragment]
-my process from February til now in <img src="assets/img/birdi_logo_2.png" style="max-width: 20%; margin-bottom: -1rem;">
+my process from February until now in <img src="assets/img/birdi_logo_2.png" style="max-width: 20%; margin-bottom: -1rem;">
 @snapend
 
 ---?color=#041338
@@ -224,18 +224,20 @@ Note:
 
 @snap[midpoint]
 @snap[ubuntu left]
-### 1. communicate
+### communicate
 @snapend
 <br>
 @snap[fragment ubuntu left]
-### 2. take action
+### take action
 @snapend
 <br>
 @snap[fragment ubuntu left]
-### 3. you are not alone
+### you are not alone
 @snapend
 @snapend
+
+---?image=assets/img/birdi_card.jpg&size=50% 100%&color=lightgray
 
 ---?color=#041338
 
-## ```thanks```
+## ```thanks!```
