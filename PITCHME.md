@@ -90,9 +90,9 @@ should I fake it?
 ---
 <img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
 
----
+---?font-family=ubuntu
 
-@quote[ubuntu border-bling][I'm a fraud and everyone are about to find out!]
+@quote[I'm a fraud and everyone are about to find out!]
 ![doodle](assets/img/woman_doodle.jpg)
 
 ---?color=#87B6A7
