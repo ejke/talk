@@ -222,6 +222,7 @@ Note:
 
 ---?color=#e5d68b
 
+@snap[midpoint]
 @snap[ubuntu left]
 1. communicate
 @snapend
@@ -232,6 +233,7 @@ Note:
 <br>
 @snap[fragment ubuntu left]
 3. you are not alone
+@snapend
 @snapend
 
 ---?color=#041338
