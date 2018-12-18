@@ -64,64 +64,47 @@ AP in Multimedia Design and Communication in Denmark
 # Job in a start-up
 @snapend
 
-Note:
-- where I was
 
----
-
-@snap[ubuntu midpoint]
-CSS
+---?color=#4c4141
+@snap[fragment ubuntu left color-light]
+no CS degree
 @snapend
-
-@snap[ubuntu north-east]
-HTML
+<br>
+@snap[fragment ubuntu left color-light]
+no proper programming experience
 @snapend
-
-@snap[ubuntu west]
-Wordpress
+<br>
+@snap[fragment ubuntu left color-light]
+almost 8 months employment gap
 @snapend
-
-@snap[fragment ubuntu-heavy east]
-Javascipt
+<br>
+@snap[fragment ubuntu right color-light]
+did I fake it?
 @snapend
-
-@snap[fragment ubuntu-heavy south]
-Python
+<br>
+@snap[fragment ubuntu right color-light]
+should I fake it?
 @snapend
-
-@snap[fragment ubuntu-heavy north-west]
-Java
-@snapend
-
-@snap[fragment ubuntu-heavy south-east]
-AWS
-@snapend
-
-@snap[fragment ubuntu-heavy north]
-Elasticsearch
-@snapend
-
-@snap[fragment ubuntu-heavy south-west]
-Postgres
-@snapend
-
----
+<br>
 
 ---
 
 <img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
 
-Note:
-- test
-- two
-- three
+Note: 
+- fraud and everyone are about to find out.
+
+---
+here the skills first and then now.
+on top: b card
+---
 
 ![business card](assets/img/birdi_card.png)
 
 ---?color=#87B6A7
+
 What is it? How to recognise you have one?
 - fear of being discovered
--
 -
 
 
