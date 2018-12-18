@@ -91,24 +91,10 @@ should I fake it?
 <img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
 
 ---
-
+@snap[ubuntu border-bling]
 @quote[I'm a fraud and everyone are about to find out!]
-
+@snapend
 ![doodle](assets/img/woman_doodle.jpg)
-
----
-here the skills first and then now.
-on top: b card
----
-
-![business card](assets/img/birdi_card.png)
-
----?color=#87B6A7
-
-What is it? How to recognise you have one?
-- fear of being discovered
--
-
 
 ---?color=#87B6A7
 
