@@ -225,11 +225,11 @@ Note:
 @snap[ubuntu left]
 1. communicate
 @snapend
-
+<br>
 @snap[fragment ubuntu left]
 2. take action
 @snapend
-
+<br>
 @snap[fragment ubuntu left]
 3. you are not alone
 @snapend
