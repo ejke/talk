@@ -236,7 +236,7 @@ Note:
 @snapend
 @snapend
 
----?image=assets/img/birdi_card.jpg&size=50% 100%&color=lightgray
+---?image=assets/img/birdi_card.jpg&size=contain&color=lightgray
 
 ---?color=#041338
 
