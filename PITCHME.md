@@ -98,7 +98,7 @@ should I fake it?
 ---?color=#87B6A7
 
 @snap[south-west ubuntu-heavy]
-# do what you can and be proud
+#  #1 do what you can and be proud
 @snapend
 
 Note:
@@ -109,9 +109,6 @@ Note:
 @snap[south-west ubuntu-heavy]
 # keep success journal
 @snapend
-
----?color=#87B6A7
-![slider example](assets/img/slider.png)
 
 ---?color=#87B6A7
 
@@ -222,13 +219,21 @@ Note:
 # hungry? tired? then stop.
 @snapend
 
----
 
+---?color=#efcf2f
+
+@snap[ubuntu]
 1. communicate
+@snapend
+
+@snap[fragment ubuntu]
 2. take action
+@snapend
+
+@snap[fragment ubuntu]
 3. you are not alone
+@snapend
 
+---?color=#041338
 
----
-
-```thanks!```
+## ```thanks```
