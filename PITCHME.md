@@ -6,17 +6,8 @@
 
 
 @snap[south-east fragment]
-process from February til now in <img src="assets/img/birdi_logo_2.png" style="max-width: 20%; margin-bottom: -2rem;">
+my process from February until now in <img src="assets/img/birdi_logo_2.png" style="max-width: 20%; margin-bottom: -1rem;">
 @snapend
-
----
-
-<img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
-
-Note:
-- test
-- two
-- three
 
 ---?color=#041338
 
@@ -33,6 +24,27 @@ Eike
 @snap[fragment ubuntu left color-light]
 Estonia
 @snapend
+
+---?color=#041338
+
+![me with bagpipe and police](assets/img/bagpipe.jpg)
+
+
+---?color=#041338
+
+## ```whoami```
+
+@snap[ubuntu left color-light]
+Eike
+@snapend
+<br>
+@snap[ubuntu left color-light]
+25
+@snapend
+<br>
+@snap[ubuntu left color-light]
+Estonia
+@snapend
 <br>
 @snap[fragment ubuntu left color-light]
 AP in Multimedia Design and Communication in Denmark
@@ -43,6 +55,7 @@ AP in Multimedia Design and Communication in Denmark
 
 ---
 
+
 @snap[ubuntu-heavy]
 # 2018
 @snapend
@@ -51,111 +64,184 @@ AP in Multimedia Design and Communication in Denmark
 # Job in a start-up
 @snapend
 
+
+---?color=#4c4141
+@snap[fragment ubuntu left color-light]
+no CS degree
+@snapend
+<br>
+@snap[fragment ubuntu left color-light]
+no proper programming experience
+@snapend
+<br>
+@snap[fragment ubuntu left color-light]
+almost 8 months employment gap
+@snapend
+<br>
+@snap[fragment ubuntu right color-light]
+did I fake it?
+@snapend
+<br>
+@snap[fragment ubuntu right color-light]
+should I fake it?
+@snapend
+<br>
+
+---
+<img src="assets/img/imposter_definition_2.png" style="max-width: 60%;">
+
+---?font-family=ubuntu
+
+@quote[I'm a fraud and everyone are about to find out!]
+![doodle](assets/img/woman_doodle.jpg)
+
+---?color=#87B6A7
+
+@snap[south-west ubuntu-heavy]
+#  #1 do what you can and be proud
+@snapend
+
 Note:
-- where I was
+- no excuses for success
 
----
+---?color=#87B6A7
 
-@snap[ubuntu midpoint]
-CSS
+@snap[south-west ubuntu-heavy]
+# keep success journal
 @snapend
 
-@snap[ubuntu north-east]
-HTML
+---?color=#87B6A7
+
+@snap[south-west ubuntu-heavy]
+# don't think you should know things you haven't learned
 @snapend
 
-@snap[ubuntu west]
-Wordpress
+
+Note:
+- cry talk
+
+---?color=#87B6A7
+
+@snap[south-west ubuntu-heavy]
+# take action, learn more
 @snapend
 
-@snap[fragment ubuntu-heavy east]
-Javascipt
+
+---?color=#87B6A7
+
+@snap[south-west ubuntu-heavy]
+# do not laugh at other's mistakes
 @snapend
 
-@snap[fragment ubuntu-heavy south]
-Python
-@snapend
-
-@snap[fragment ubuntu-heavy north-west]
-Java
-@snapend
-
-@snap[fragment ubuntu-heavy south-east]
-AWS
-@snapend
-
-@snap[fragment ubuntu-heavy north]
-Elasticsearch
-@snapend
-
-@snap[fragment ubuntu-heavy south-west]
-Postgres
-@snapend
-
----
-
-![business card](assets/img/birdi_card.png)
 
 ---?color=#87B6A7
 
 @snap[north-west ubuntu-heavy]
-# What worked for me
+# blocker
+@snapend
+
+@snap[midpoint ubuntu-heavy]
+# 3,2,1,
+@snapend
+
+@snap[south ubuntu-heavy]
+# ask help!
+@snapend
+
+Note:
+- 3 second rule
+- mind stops itself
+- postpone if obviously busy
+
+---?color=#87B6A7
+
+@snap[south-west ubuntu-heavy]
+# leave binary to code
+@snapend
+
+@snap[fragment north-east ubuntu-heavy]
+## perfection
+@snapend
+
+Note:
+- lower your levels
+
+---?color=#87B6A7
+
+@snap[midpoint ubuntu-heavy]
+# mindset: fail fast
 @snapend
 
 ---?color=#87B6A7
-1. 
+
+@snap[south-west ubuntu-heavy]
+# stop comparing yourself to those who have levelled up
+@snapend
+
+Note:
+- good in moderation
+- goal
 
 
+---?color=#87B6A7
+
+@snap[south-west ubuntu-heavy]
+# communicate.
+@snapend
+
+Note:
+- honest retros
+
+<<<<<<< HEAD
 ---
-What is it? How to recognise you have one?
+=======
+---?color=#87B6A7
 
-How to do it
-1. do what you can and take pride in that. take in the compliments sincerely (however small you think the thing you did is) (EX: slider)
-2. talk when you have opinion
-3. learn more - about things you ought to know and about things you don't
-4. learn more
-5. make a way to ask questions in the way that you show that you know something but not everything
-6. try not to laugh when others make mistakes. i understand, it humanises them in your eyes, but puts you in worse light in their eyes.
-7. communicate when blocked. 3 second rule like in dating or networking - when you see somebody you want to talk to, you need to get up and walking within 3s, otherwise it is too late. can postpone sometimes when you see the person is obviously very bizy.
-8. stop comparing yourself with people above your level. (easier said than done) (EX: brendan. orchestra. )
-it has a good side - setting your goals high, to go and get them, but
-9. lower your levels - try to not get it perfect. aim there is long run, but able yourself to fail, convince that you should fail on first try.
-10. communicate those issues  - finding out your peers have also self-doupt and they are not superhuman know-it-all robots helps a lot. EX: honest retros
-11. Don't lie in your skills - it will come out. even halflie is no good (knowing the thing half-way)
-12. tim ferriss self-evaluation: hungry? tired? yep, then skip the thought for later. not proper to deal with them.
-13. take action - do, learn, talk, run. it helps timiding the feeling.
-14. stop giving excuses for successes. own it and fake it til you make it where you want to be.
-15. positive self talk. acknowledge the inner critic telling you off. shut it.
-16. don;t let ego come on the way of asking questions.
-17. take note of archievements
+@snap[south-west ubuntu-heavy]
+# stop the ego from getting ahead
+@snapend
 
-ex: couldn't speak to coworkers cause eyes were watering of thoughts that I'm not good enough and I don't know how to do it.
-
-https://startupbros.com/21-ways-overcome-impostor-syndrome/
-
+Note:
 - fear of being discovered
-- great team helps a lot
-- how to do it, examples of how I did it
-- communication, asking
-- no lies about your skills, even if you are not sure if it is a lie or not
-- lrean, learn, learn
--
-
----
-
-learning process. how to becom from front end to fullstack
-- learn, take on tasks that wont be able to complete
-- mindset in cc
-- helpful coworkers
-how team is working so well that we don't need cto
-- standups
-- weekly sprints, planning on fridays
--  retros
--
 
 
----
+---?color=#87B6A7
 
-points to take from here:
-you are not alone
-shut up and action
+@snap[south-west ubuntu-heavy]
+# send your inner critic to vacation
+@snapend
+
+Note:
+- get to know it
+- friends,
+- make it work for you
+
+---?color=#87B6A7
+
+@snap[south-west ubuntu-heavy]
+# hungry? tired? then stop.
+@snapend
+
+>>>>>>> 98de90c001bd7a24d75a9a2356a13b3729e32940
+
+---?color=#e5d68b
+
+@snap[midpoint]
+@snap[ubuntu left]
+### communicate
+@snapend
+<br>
+@snap[fragment ubuntu left]
+### take action
+@snapend
+<br>
+@snap[fragment ubuntu left]
+### you are not alone
+@snapend
+@snapend
+
+---?image=assets/img/birdi_card.jpg&size=cover&color=lightgray
+
+---?color=#041338
+
+## ```thanks!```

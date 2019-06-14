@@ -62,7 +62,18 @@
   float: left;
   text-align: left;
 }
+.right {
+  float: right;
+  text-align: right;
+}
 
 .color-light {
   color: #fff;
+}
+
+.quote-text {
+  border: 1px solid #F34CFB !important;
+  box-shadow: 0px 0px 6px aquamarine !important;
+  border-radius: 5px;
+  color: #4E1653;
 }
